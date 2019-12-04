@@ -1,7 +1,7 @@
 import pytest
 from Hello_World.py import *
 
-#if this doesnt work imma cry :(
+#cant believe reynaldi had the audacity to delete my first project on jenkins
 
 def test_hello():
     result = hello()
