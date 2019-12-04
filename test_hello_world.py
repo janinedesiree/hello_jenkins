@@ -1,5 +1,5 @@
 import pytest
-from Hello_World.py import *
+from hello_world import *
 
 #cant believe reynaldi had the 
 #audacity to delete my first 
