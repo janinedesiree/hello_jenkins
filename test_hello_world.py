@@ -1,7 +1,7 @@
 import pytest
 from Hello_World.py import *
 
-#test
+#if this doesnt work imma cry :(
 
 def test_hello():
     result = hello()
